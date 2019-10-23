@@ -1,0 +1,1 @@
+const maps = x => Array.from(x, x => x*2)
